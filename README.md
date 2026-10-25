@@ -1,0 +1,1 @@
+# drug-safety-pharmacovigilance-platform
